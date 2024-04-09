@@ -2,6 +2,7 @@
 
 This ECMAScript proposal seeks to investigate the problem area of escaping a string for use inside a Regular Expression.
 
+
 [Formal specification](https://tc39.es/proposal-regex-escaping)
 
 Champions:
